@@ -115,6 +115,16 @@ work:
       - Professor of Computational Linguistics at the MA level
       - Responsible for computing affairs at DIT
       - Research on NLP
+  - position: Scientist
+    company_name: Qatar Computing Research Institute
+    company_url: 'https://www.hbku.edu.qa/en/qcri'
+    company_logo: ''
+    date_start: 2014-11-20
+    date_end: 2019-04-10
+    summary: |
+      Responsibilities include:
+      - Research on analysis and detection of propaganda
+      - Research on Question answering
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
