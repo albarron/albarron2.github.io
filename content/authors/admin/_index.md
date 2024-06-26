@@ -103,10 +103,18 @@ work:
       - Professor of Computational Thinking at the MA and the BA level
       - Department representative at the Alma AI Research Institute
       - Responsible for computing affairs at DIT
-      Research includes:
-      - Natural language processing
-      - Information Retrieval
- 
+      - Research on NLP
+  - position: Senior assistant professor
+    company_name: Università di Bologna
+    company_url: 'https://www.unibo.it'
+    company_logo: ''
+    date_start: 2019-04-30
+    date_end: 2022-04-30
+    summary: |
+      Responsibilities include:
+      - Professor of Computational Linguistics at the MA level
+      - Responsible for computing affairs at DIT
+      - Research on NLP
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
