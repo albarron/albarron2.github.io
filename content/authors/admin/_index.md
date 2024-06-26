@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Alberto Barrón-Cedeño
+title: Alberto Barrón-Cedeño
 
 # Name pronunciation (optional)
 name_pronunciation: ''
