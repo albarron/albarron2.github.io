@@ -125,6 +125,15 @@ work:
       Responsibilities include:
       - Research on analysis and detection of propaganda
       - Research on Question answering
+  - position: Postdoc (Alain Bensoussan Fellow)
+    company_name: Universitat Politecnica de Catalunya
+    company_url: 'https://www.talp.upc.edu/'
+    company_logo: ''
+    date_start: 2012-09-01
+    date_end: 2014-06/30
+    summary: |
+      Responsibilities include:  
+      - Research on multilingual NLP
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
