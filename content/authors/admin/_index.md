@@ -128,15 +128,6 @@ work:
       - Analysis of propaganda
       - Question answering
   - position: Postdoc (Alain Bensoussan Fellow)
-
-Sep 2012 – Jun 2014 Barcelona, Spain
-
-Research includes:
-
-    Natural language processing
-    Information Retrieval
-
-
     company_name: Universitat Politecnica de Catalunya
     company_url: 'https://www.talp.upc.edu/'
     company_logo: ''
