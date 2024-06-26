@@ -52,30 +52,37 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computing Science
+    institution: Universitat Politècnica de València, Spain
+    date_start: 2009
+    date_end: 2012
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Cross-language plagiarism detection_. Supervised by [Prof Paolo Rosso](https://personales.upv.es/prosso/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://riunet.upv.es/handle/10251/16012'
+  - area: MSc in Artificial Intelligence
+    institution: Universitat Politècnica de València, Spain
+    date_start: 2008
+    date_end: 2009
     summary: |
-      GPA: 3.8/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc in Computing
+    institution: Universidad Nacional Autónoma de México, Mexico
+    date_start: 2005
+    date_end: 2007
+    summary: |
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BEng in Computing
+    institution: Universidad Nacional Autónoma de México, Mexico
+    date_start: 1999
+    date_end: 2004
     summary: |
       GPA: 3.4/4.0
       
@@ -183,4 +190,13 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+THIS WEBSITE IS UNDER CONSTRUCTION (LAST MODIFICATION: 25/06/24)
+
+I am Associate Professor at [Università di Bologna](https://dit.unibo.it) since 
+2022 (after three years as Senior assistant professor; RTDb, in the Italian 
+system). I have been working on the (cross-language) assessment of 
+text looking at different aspects such as originality (e.g., plagiarism 
+detection) and intent (e.g., propaganda, hate speech).
+
+Visit my [UniBO website](https://www.unibo.it/sitoweb/a.barron) for university 
+matters.
