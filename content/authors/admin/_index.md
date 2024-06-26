@@ -20,36 +20,36 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Università di Bologna
+    url: https://www.unibo.it/sitoweb/a.barron
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:a.barron [at] unibo.it'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/_albarron_
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: ''
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/albarron
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/albertobarroncedeno/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=0q0QVG4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4719-3420
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Natural Language Processing
   - Information Retrieval
+  - Machine Learning
 
 education:
   - area: PhD Artificial Intelligence
