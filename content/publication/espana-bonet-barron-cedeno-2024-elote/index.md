@@ -13,4 +13,6 @@ publication: '*Proceedings of the 2024 Conference of the North American Chapter 
 links:
 - name: URL
   url: https://aclanthology.org/2024.naacl-long.204
+# Display this page in the Featured widget?
+featured: true
 ---
