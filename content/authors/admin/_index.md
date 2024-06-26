@@ -103,38 +103,7 @@ work:
       - Professor of Computational Thinking at the MA and the BA level
       - Department representative at the [Alma AI Research institute](https://centri.unibo.it/alma-ai/it)
       - Responsible for computing affairs at [DIT](https://dit.unibo.it)
-    Research includes:
-      - Natural language processing
-      - Information Retrieval
-  - position: Senior assistant professor
-    company_name: Università di Bologna
-    company_url: 'https://www.unibo.it'
-    company_logo: ''
-    date_start: 2019-04-30
-    date_end: 2022-04-30
-    summary: |
-      Research includes:
-      - Natural language processing
-      - Information Retrieval
-  - position: Scientist
-    company_name: Qatar Computing Research Institute
-    company_url: 'https://www.hbku.edu.qa/en/qcri'
-    company_logo: ''
-    date_start: 2014-11-20
-    date_end: 2019-04-10
-    summary: |
-      Research includes:
-      - Analysis of propaganda
-      - Question answering
-  - position: Postdoc (Alain Bensoussan Fellow)
-    company_name: Universitat Politecnica de Catalunya
-    company_url: 'https://www.talp.upc.edu/'
-    company_logo: ''
-    date_start: 2012-09-01
-    date_end: 2014-06/30
-    summary: |
-      Research includes:   
-      - Multilingual NLP
+ 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
