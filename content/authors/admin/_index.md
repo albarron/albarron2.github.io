@@ -103,7 +103,6 @@ work:
       - Professor of Computational Thinking at the MA and the BA level
       - Department representative at the [Alma AI Research institute](https://centri.unibo.it/alma-ai/it)
       - Responsible for computing affairs at [DIT](https://dit.unibo.it)
-
     Research includes:
       - Natural language processing
       - Information Retrieval
