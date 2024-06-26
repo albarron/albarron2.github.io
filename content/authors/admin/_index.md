@@ -118,10 +118,6 @@ work:
       - Natural language processing
       - Information Retrieval
   - position: Scientist
-
-Nov 2014 – Apr 2019 Doha, Qatar
-Research on Question Answering, Propaganda Identification, and others.
-
     company_name: Qatar Computing Research Institute
     company_url: 'https://www.hbku.edu.qa/en/qcri'
     company_logo: ''
