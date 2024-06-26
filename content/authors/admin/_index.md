@@ -101,8 +101,11 @@ work:
       Responsibilities include:
       - Professor of Natural Language Processing at the MA level
       - Professor of Computational Thinking at the MA and the BA level
-      - Department representative at the [Alma AI Research institute](https://centri.unibo.it/alma-ai/it)
-      - Responsible for computing affairs at [DIT](https://dit.unibo.it)
+      - Department representative at the Alma AI Research Institute
+      - Responsible for computing affairs at DIT
+      Research includes:
+      - Natural language processing
+      - Information Retrieval
  
 
 # Skills
