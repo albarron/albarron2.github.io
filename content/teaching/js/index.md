@@ -28,8 +28,8 @@ else:
   check the slides, notebooks, and 2021 video recordings
 ```
 
-The materials are available at 
-[https://github.com/TinfFoil/learning_dit_python](https://github.com/TinfFoil/learning_dit_python) (**as of June 24 the link is not working yet**). 
+Regardless, you can find the materials on [virtuale](https://virtuale.unibo.it/). 
+<!-- [https://github.com/TinfFoil/learning_dit_python](https://github.com/TinfFoil/learning_dit_python) (**as of June 24 the link is not working yet**).  -->
 
 Regardless of whether you attended either of the introductions, I suggest you to **do (or re-visit) all the exercises ASAP**.
 
@@ -40,7 +40,7 @@ Whereas the contents could be (slightly) adapted according to the students skill
 **As of June 2024. the links are broken. I am working on transferring the contents from the olf website**
 
 ### 1. Introduction to Natural Language Processing
-* \[02/10/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/01_nlp_handout.pdf)
+- \[02/10/23\] [Slides](https://github.com/albarron/academic-kickstart/raw/master/files/nlp23/week_01/01_nlp_handout.pdf)
 
 
 ### 2. Words and the vector space model
