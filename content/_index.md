@@ -37,7 +37,7 @@ sections:
       text: |-
         I am an Associate Professor at Università di Bologna. My main mission is bringing (real) computing to the Department of Interpreting and Translation.
 
-        I research on the analysis and identification of harming contents online (from hate speech to propaganda and disinformatio), I also play with NLP for Gastronomy and laterly I am engaged with varieties of languages.
+        I research on the analysis and identification of harming contents online (from hate speech to propaganda and disinformation), I also play with NLP for Gastronomy and laterly I am engaged with varieties of languages.
         
         Do not hesitate to reach out 😃
     design:
