@@ -1,14 +1,16 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Natural Language Processing
+summary: The MA NLP course
+date: 2023
 type: docs
-math: false
+math: true
 tags:
-  - JavaScript
+  - NLP
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
+
+**Academic Year 2023/2024**
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
