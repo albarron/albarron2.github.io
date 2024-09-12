@@ -35,10 +35,12 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/_albarron_
-  - icon: brands/instagram
-    url: ''
+  # - icon: brands/instagram
+  #   url: ''
   - icon: brands/github
     url: https://github.com/albarron
+  - icon: brands/gitlab
+    url: https://gitlab.com/albarron/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/albertobarroncedeno/
   - icon: academicons/google-scholar
@@ -211,7 +213,7 @@ languages:
 
 ## About Me
 
-THIS WEBSITE IS UNDER CONSTRUCTION (LAST MODIFICATION: 25/06/24)
+THIS WEBSITE IS UNDER CONSTRUCTION (LAST MODIFICATION: 12/09/24)
 
 I am Associate Professor at [Università di Bologna](https://dit.unibo.it) since 
 2022 (after three years as Senior assistant professor; RTDb, in the Italian 
