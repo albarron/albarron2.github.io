@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
 summary: The TraTec NLP course
-date: 2024
+date: 2024-09-12
 type: docs
 math: true
 tags:
