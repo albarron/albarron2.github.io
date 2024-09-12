@@ -1,7 +1,7 @@
 ---
 title: Natural Language Processing
-summary: The MA NLP course
-date: 2023
+summary: The TraTec NLP course
+date: 2024
 type: docs
 math: true
 tags:
