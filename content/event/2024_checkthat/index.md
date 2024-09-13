@@ -1,28 +1,30 @@
 ---
-title: Example Talk
+title: UniBO at CheckThat! 2024 Multi-lingual and Multi-label Persuasion Technique Detection in News with Data Augmentation and Sequence-Token Classifiers
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: CheckThat! at CLEF 2024
+event_url: http://clef2024.clef-initiative.eu/
 
-location: Hugo Blox Builder HQ
+location: Université Grenoble Alpes
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  # street: 
+  city: Grenoble
+  region: France
+  postcode: 
+  country: 
+    # France
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: UniBO's top-performing participation to CheckThat! 2024 Task 3.
+abstract: 'We explored persuasion technique detection in multilingual news as part of the CheckThat! Lab Task 3. Our pipeline comprises two parts. The first part is a data augmentation module, which uses a BERT-based model fine-tuned for word-alignment to project labels from source texts to machine-translated target texts. The second one is a persuasion technique classification module, leveraging two
+fine-tuned BERT-based models: a sequence classifier for detecting sentences containing persuasion techniques and a set of 23 token-level classifiers for specific techniques. Our approach sis competitive in all language settings, showing hints of crosslingual transfer. Despite the research efforts in this direction, detecting persuasion techniques, especially across languages, remains challenging due to their implicit and subtle nature.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-09-12T'
+date_end: '2024-09-12T16:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-09-02T16:40:00Z'
 
 authors:
   - admin
@@ -33,7 +35,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
+    # 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 #links:
@@ -41,10 +44,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_code: 'https://github.com/giorluca/checkthat24_DIT'
+url_pdf: 'https://ceur-ws.org/Vol-3740/paper-39.pdf'
+url_slides: ''
+# url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -62,7 +65,7 @@ projects:
   - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -73,3 +76,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+ -->
