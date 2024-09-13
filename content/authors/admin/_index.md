@@ -19,6 +19,9 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+user_groups:
+- Principal Investigators
+
 # Role/position/tagline
 role: Associate Professor
 
