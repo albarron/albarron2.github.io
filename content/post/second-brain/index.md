@@ -1,6 +1,6 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: PLACEHOLDER 🧠 
+summary: Summary
 date: 2023-10-26
 authors:
   - admin
@@ -11,7 +11,9 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+Mindmaps
+
+<!-- Create a personal knowledge base and share your knowledge with your peers.
 
 Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
 
@@ -136,3 +138,4 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 {{% /callout %}}
 
 ## Did you find this page helpful? Consider sharing it 🙌
+ -->

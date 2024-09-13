@@ -1,27 +1,27 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Top performance in the CheckThat! Task 3 at CLEF 2024
+summary: Our model for span-level persuasion techniques shined in the CheckThat! lab
+date: 2024-09-12
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - CheckThat!
+  - Persuasion techniques
 ---
 
-Welcome 👋
+Our approach obtained the best performance in four our of five languages among those submitted by the deadline of  [CheckThat! Task 3](http://checkthat.gitlab.io/clef2024/).
+
+The [paper is available](https://ceur-ws.org/Vol-3740/paper-39.pdf) for further details.
 
 {{< toc mobile_only=true is_open=true >}}
-
+<!--Welcome 👋
 ## Overview
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -84,3 +84,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+ -->

@@ -1,6 +1,6 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+title: Placeholder ✅ 
+summary: Smmary
 date: 2023-10-23
 authors:
   - admin
@@ -13,7 +13,7 @@ image:
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
-## Ideation
+<!-- ## Ideation
 
 Hugo Blox supports a Markdown extension for mindmaps.
 
@@ -92,3 +92,4 @@ renders as
 - [ ] Do something else
 
 ## Did you find this page helpful? Consider sharing it 🙌
+ -->
