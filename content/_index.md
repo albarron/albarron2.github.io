@@ -53,6 +53,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+################################
   - block: collection
     content:
       title: Recent Publications
@@ -66,13 +67,14 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Some talks (still under construction)
+      title: Most recent talks (click below for more)
       filters:
         folders:
           - event
     design:
       view: article-grid
       columns: 3
+################################ 
   - block: collection
     id: news
     content:
